@@ -28,6 +28,6 @@ ___
     ➡️ GOVERNANÇA: conformidade e padrões corporativos. Facilita encontrar estratégias de mitigação. Também envolve atualizações automáticas por parte do CSP.
     ➡️ GERENCIABILIDADE: gerenciamento de recursos para projetos, times, usuários. Pode-se manter modelos pré-configurados. É a maneira de gerenciar os ambientes e recursos. Pode ser gerenciado por portal web, CLI, API, PowerShell, Terraform, JSON, etc.
 
-    #### ✔️ Curso 8: Benefícios da Computação em Nuvem
+#### ✔️ Curso 8: Benefícios da Computação em Nuvem
     ➡️ ALTA DISPONIBILIDADE: Tem correlação com SLA. Caso
     
